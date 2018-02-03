@@ -43,6 +43,10 @@ LEXICON N
 
 %<n%>: PLURAL ;
 
+LEXICON NP
+
+%<n%>: PLURAL ;
+
 LEXICON Nouns
 
 урам:урам N ;     ! "улица"
@@ -52,7 +56,9 @@ LEXICON Nouns
 
 LEXICON Personal Nouns
 
-
-
-
-
+Женя:Женя NP ;
+Золотницкий:Золотницкий NP ;
+Иванова:Иванова NP ;
+Наталья:Наталья NP ;
+Саша:Саша NP ;
+Турку:Турку NP ;
