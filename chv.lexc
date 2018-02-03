@@ -14,6 +14,7 @@ Multichar_Symbols
 LEXICON Root
 
 Nouns ;
+Personal Nouns;
 
 LEXICON CASES 
 
@@ -36,3 +37,7 @@ LEXICON Nouns
 пакча:пакча N ;   ! "сад"
 хула:хула N ;     ! "город"
 канаш:канаш N ;   ! "совет"
+
+LEXICON Personal Nouns
+
+
